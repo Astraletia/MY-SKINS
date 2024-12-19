@@ -17,8 +17,8 @@
 # [RAFIS_INDIGO](https://www.mediafire.com/file/bshi3a60mlso8rh/rafis_indigo.osk/file)
 ![Screenshot of the application](screenshot403.jpg)
 
-# [VAXEI_MIX](https://www.mediafire.com/file/qpppwp2ahxiw5cq/vaxei_mix.osk/file)
-![Screenshot of the application](screenshot395.jpg)
+# [ARISTIA_YASU](https://www.mediafire.com/file/rrpf1y7vdbxixm9/aristia_yasu.osk/file)
+![Screenshot of the application](screenshot404.jpg)
 
 # [VAXEI_MIX](https://www.mediafire.com/file/qpppwp2ahxiw5cq/vaxei_mix.osk/file)
 ![Screenshot of the application](screenshot395.jpg)
