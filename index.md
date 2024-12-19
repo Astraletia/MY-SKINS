@@ -20,5 +20,5 @@
 # [ARISTIA_YASU](https://www.mediafire.com/file/rrpf1y7vdbxixm9/aristia_yasu.osk/file)
 ![Screenshot of the application](screenshot404.jpg)
 
-# [VAXEI_MIX](https://www.mediafire.com/file/qpppwp2ahxiw5cq/vaxei_mix.osk/file)
-![Screenshot of the application](screenshot395.jpg)
+# [ADAMQS_HD](https://www.mediafire.com/file/484bdg5jm9ba188/adamqs_hd.osk/file)
+![Screenshot of the application](screenshot405.jpg)
