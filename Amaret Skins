@@ -30,7 +30,7 @@
 </head>
 <body>
     <h1>Download Your File</h1>
-    <img src="screenshot.png" alt="Screenshot">
+    <img screenshot382.jpg>
     <p>
         <a href="file.zip" download>Click Here to Download</a>
     </p>
