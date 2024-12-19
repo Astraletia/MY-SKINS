@@ -1,7 +1,5 @@
 # MY SKINS
 
-***
-
 This is a list of skins I either made or edited
 
 ---
