@@ -10,3 +10,15 @@
 
 # [RAFIS_GOTHIC](https://www.mediafire.com/file/kv5xwynnq17uv16/rafis_gothic.osk/file)
 ![Screenshot of the application](screenshot394.jpg)
+
+# [VAXEI_MIX](https://www.mediafire.com/file/qpppwp2ahxiw5cq/vaxei_mix.osk/file)
+![Screenshot of the application](screenshot395.jpg)
+
+# [VAXEI_MIX](https://www.mediafire.com/file/qpppwp2ahxiw5cq/vaxei_mix.osk/file)
+![Screenshot of the application](screenshot395.jpg)
+
+# [VAXEI_MIX](https://www.mediafire.com/file/qpppwp2ahxiw5cq/vaxei_mix.osk/file)
+![Screenshot of the application](screenshot395.jpg)
+
+# [VAXEI_MIX](https://www.mediafire.com/file/qpppwp2ahxiw5cq/vaxei_mix.osk/file)
+![Screenshot of the application](screenshot395.jpg)
