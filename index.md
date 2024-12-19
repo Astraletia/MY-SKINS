@@ -1,6 +1,6 @@
-# Download Page
+# MY SKINS
 
-Welcome! Below is a screenshot and a link to download the file.
+This is a list of skins I either made or edited
 
 ![Screenshot of the application](screenshot382.jpg)
 
