@@ -8,3 +8,5 @@
 # [TEKKITO_AMARET](https://www.mediafire.com/file/okioi53datgg57x/tekkito_amaret.osk/file)
 ![Screenshot of the application](screenshot386.jpg)
 
+# [TEKKITO_AMARET](https://www.mediafire.com/file/okioi53datgg57x/tekkito_amaret.osk/file)
+![Screenshot of the application](screenshot386.jpg)
