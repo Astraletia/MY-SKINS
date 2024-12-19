@@ -1,38 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MY SKINS</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 50px;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-        a {
-            display: inline-block;
-            margin-top: 20px;
-            padding: 10px 20px;
-            background-color: #007BFF;
-            color: white;
-            text-decoration: none;
-            border-radius: 5px;
-        }
-        a:hover {
-            background-color: #0056b3;
-        }
-    </style>
-</head>
-<body>
-    <h1>Download Your File</h1>
-    <img screenshot382.jpg>
-    <p>
-        <a href="file.zip" download>Click Here to Download</a>
-    </p>
-</body>
-</html>
+---
+layout: default
+title: Download Page
+---
+
+# Download Page
+
+Welcome! Below is a screenshot and a link to download the file.
+
+![Screenshot of the application](screenshot.png)
+
+[**Download File**](file.zip)
